@@ -3,7 +3,8 @@
 # About
 FLaunch is a beautifully simple application launcher that puts control back in your hands. Designed for those who value efficiency and personal style, it offers a clean, unobtrusive way to access your apps — exactly when and where you need them
 
-**little, but usefull**
+**little, but usefull:**
+
 Designed in the style of a sidebar 
 
 # What Makes FLaunch Different?
